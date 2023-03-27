@@ -16,8 +16,6 @@
   </a>
   </p>
 
-   <h4 align="center">https://yellow-stone-0223a5a10.2.azurestaticapps.net/</h4>
-
 ## 😊 My First Experience :
 
 - Coming soon! I'll give a detailed writeup about everything I learned during constructing this website.
