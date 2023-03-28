@@ -170,7 +170,7 @@ const projects = [
     tags: [
       {
         name: "red team",
-        color: "red-text-gradient",
+        color: "blue-text-gradient",
       },
       {
         name: "offensive operations",
@@ -191,7 +191,7 @@ const projects = [
     tags: [
       {
         name: "Java",
-        color: "red-text-gradient",
+        color: "blue-text-gradient",
       },
       {
         name: "Teach2Learn",
