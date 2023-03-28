@@ -138,27 +138,6 @@ const experiences = [
 
 const projects = [
   {
-    name: "0x01Facility",
-    description:
-      "This is a collection of methodolgies and techniques I learned and used in my pentesting journey.",
-    tags: [
-      {
-        name: "Methods",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Pentesting",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Cheatsheets",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/smadi0x86/0x01Facility",
-  },
-  {
     name: "Offensive operations pathway",
     description:
       "As a head of offensive operations in my university's cyber security club, I developed this pathway to help new members learn the basics of offensive operations.",
@@ -178,6 +157,27 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/smadi0x86/CSC-RedOps",
+  },
+  {
+    name: "0x01Facility",
+    description:
+      "This is a collection of methodolgies and techniques I learned and used in my pentesting journey.",
+    tags: [
+      {
+        name: "Methods",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Pentesting",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Cheatsheets",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/smadi0x86/0x01Facility",
   },
   {
     name: "Java Teach2Learn",
