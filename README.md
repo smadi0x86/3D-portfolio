@@ -18,9 +18,9 @@
   </a>
   </p>
 
-## 😊 My First Experience :
+## 😊 Note :
 
-- Coming soon! I'll give a detailed writeup about everything I learned during constructing this website.
+- This portfolio is still in production, extra features will be deployed as soon as possible!
 
 ## ⚠️ Disclaimer :
 
