@@ -20,11 +20,11 @@
 
 ## 😊 Note :
 
-- This portfolio is still in production, extra features will be deployed as soon as possible!
+- ***This portfolio is still in production, extra features will be deployed as soon as possible!***
 
 ## ⚠️ Disclaimer :
 
-- I am not responsible for any misuse of this information, its only for education purposes
+- ***I am not responsible for any misuse of this information, its only for education purposes***
 
 ## 📞 Contact :
 
