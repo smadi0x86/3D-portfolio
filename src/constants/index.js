@@ -164,46 +164,46 @@ const projects = [
     source_code_link: "https://github.com/smadi0x86/0x01Facility",
   },
   {
-    name: "Job IT",
+    name: "Offensive operations pathway",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "As a head of offensive operations in my university's cyber security club, I developed this pathway to help new members learn the basics of offensive operations.",
     tags: [
       {
-        name: "react",
-        color: "blue-text-gradient",
+        name: "red team",
+        color: "red-text-gradient",
       },
       {
-        name: "restapi",
+        name: "offensive operations",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
+        name: "pathway",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/smadi0x86/CSC-RedOps",
+  },
+  {
+    name: "Java Teach2Learn",
+    description:
+      "This is a study technique that I developed to help me learn Java for my university, It tricks your brain into thinking you already know these concepts and that you are teaching it to someone else.",
+    tags: [
+      {
+        name: "Java",
+        color: "red-text-gradient",
+      },
+      {
+        name: "Teach2Learn",
+        color: "green-text-gradient",
+      },
+      {
+        name: "University",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/smadi0x86/java0x01",
   },
 ];
 
