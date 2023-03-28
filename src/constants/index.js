@@ -92,6 +92,11 @@ const technologies = [
 const experiences = [
   {
     title: "Coming Soon",
+    company_name: "COMPANY NAME",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "DATE",
+    points: ["INFO"],
   },
   /*
   {
