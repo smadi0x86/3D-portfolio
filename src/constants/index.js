@@ -88,9 +88,9 @@ const technologies = [
     icon: git,
   },
 ];
-/*
+
 const experiences = [
-  {
+  /* {
     title: "Coming Soon",
     company_name: "COMPANY NAME",
     icon: starbucks,
@@ -138,8 +138,9 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
+  */
 ];
-*/
+
 const projects = [
   {
     name: "Offensive operations pathway",
@@ -206,5 +207,5 @@ const projects = [
   },
 ];
 
-export { services, technologies, projects };
+export { services, technologies, experiences, projects };
 // export { services, technologies, experiences, projects };
