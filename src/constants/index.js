@@ -53,11 +53,11 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Malware Analysis",
+    title: "Malware Development",
     icon: backend,
   },
   {
-    title: "Reverse Engineering",
+    title: "Research",
     icon: creator,
   },
 ];
@@ -88,7 +88,7 @@ const technologies = [
     icon: git,
   },
 ];
-
+/*
 const experiences = [
   {
     title: "Coming Soon",
@@ -98,7 +98,7 @@ const experiences = [
     date: "DATE",
     points: ["INFO"],
   },
-  /*
+
   {
     title: "React Native Developer",
     company_name: "Tesla",
@@ -138,9 +138,8 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
-*/
 ];
-
+*/
 const projects = [
   {
     name: "Offensive operations pathway",
@@ -207,4 +206,5 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, projects };
+export { services, technologies, projects };
+// export { services, technologies, experiences, projects };
