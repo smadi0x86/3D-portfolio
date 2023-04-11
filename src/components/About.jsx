@@ -57,11 +57,14 @@ const About = () => {
         field of web development using django, react, nodejs, threejs and hosted
         them using ci/cd azure cloud services.<br></br>
         <br></br>
-        Cooperation and communication with other security firms in my field are
-        essential to ensure a solid organization/company security. <br></br>My
-        field depends on always being a step further on Developers and Blue
-        Defensive team, to attack Active Directories & Networks decently then
-        escalate privileges furthermore.
+        By understanding the concepts of low-level languages such as memory
+        handling, process injection and system calls, I am able to write more
+        efficient and effective code, allowing me to develop advanced attacks
+        that can penetrate even the most sophisticated defenses.<br></br>{" "}
+        Collaboration and communication with other security firms are crucial in
+        this field. By working closely with other experts, we can develop
+        strategic approaches to offensive cybersecurity that can drive strong
+        defenses and ensure the safety of our clients digital infrastructure.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
