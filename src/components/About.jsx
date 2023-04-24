@@ -50,9 +50,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a cyber security student at the University of HTU, currently engaged
-        in offensive security and I'm interested in penetration testing, malware
-        analysis, malware development and reverse engineering.<br></br>
+        I'm a cyber security enthusiast currently engaged in offensive security
+        and I'm interested in penetration testing, malware analysis, malware
+        development and reverse engineering.<br></br>
         <br></br>I also made a few projects including this portfolio in the
         field of web development using django, react, nodejs, threejs and hosted
         them using ci/cd azure cloud services.<br></br>
