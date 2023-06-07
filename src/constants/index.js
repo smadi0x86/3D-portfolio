@@ -94,7 +94,7 @@ const experiences = [
     title: "Vice President & Head of Offensive Operations",
     company_name: "Cyber Security Club - HTU · Self-employed",
     icon: starbucks,
-    iconBg: "#383E56",
+    iconBg: "#000",
     date: "May 2023 - Present",
     points: [
       "My role in the cyber security club at HTU is critical, I am currently the head of offensive operations at the club in which my main objective is to train the trainers of students and other security enthusiasts.\n",
@@ -121,7 +121,7 @@ const experiences = [
     title: "Technical Trainer",
     company_name: "Enlighten Me Club - HTU · Self-employed",
     icon: tesla,
-    iconBg: "#E6DEDD",
+    iconBg: "#FFF",
     date: "Mar 2023 - Present",
     points: [
       "Enlighten Me Club is a student club at Al Hussein Technical University aiming to provide the less fortunate children and teenagers with opportunities to learn programming, english and many more under the emblem of “Knowledge is for everybody”.\n",
