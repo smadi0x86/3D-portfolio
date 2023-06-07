@@ -52,14 +52,13 @@ const About = () => {
       >
         Hello! I'm Saud Smadi, a student at Al Hussein Technical University
         pursuing a BSc in Cybersecurity.<br></br>
-        <br></br>Saud made few projects including this portfolio in the field of
+        <br></br>I made few projects including this portfolio in the field of
         web development using django, react, nodejs, threejs and hosted them
         using ci/cd azure cloud services.<br></br>
-        <br></br>
-        Saud is also passionate about offensive cybersecurity and believe that
-        by finding vulnerabilities proactively, we can strengthen our defenses.
-        I also enjoy learning about trending IT topics like ci/cd and software
-        development.<br></br>
+        <br></br>I am also passionate about offensive cybersecurity and believe
+        that by finding vulnerabilities proactively, we can strengthen our
+        defenses. I also enjoy learning about trending IT topics like ci/cd and
+        software development.<br></br>
         <br></br> Understanding low-level languages helps me write efficient
         code for advanced attacks. Collaboration with other experts is important
         to develop strategic approaches. Feel free to contact me at
