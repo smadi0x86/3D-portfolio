@@ -159,6 +159,27 @@ const projects = [
     source_code_link: "https://github.com/smadi0x86/CSC-RedOps",
   },
   {
+    name: "MalwareHolmes",
+    description:
+      "This is a malware Identifier for my university's programming final project written in java!",
+    tags: [
+      {
+        name: "Java",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Maven",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Malware-detection",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/smadi0x86/MalwareHolmes",
+  },
+  {
     name: "Java Teach2Learn",
     description:
       "This is a study technique that I developed to help me learn Java for my university, It tricks your brain into thinking you already know these concepts and that you are teaching it to someone else.",
@@ -181,27 +202,6 @@ const projects = [
   },
   {
     name: "0x01Facility",
-    description:
-      "This is a collection of methodolgies and techniques I learned and used in my pentesting journey.",
-    tags: [
-      {
-        name: "Methods",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Pentesting",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Cheatsheets",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/smadi0x86/0x01Facility",
-  },
-  {
-    name: "MalwareHolmes",
     description:
       "This is a collection of methodolgies and techniques I learned and used in my pentesting journey.",
     tags: [
