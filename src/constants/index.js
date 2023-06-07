@@ -101,9 +101,9 @@ const experiences = [
 
       "Some of my responsibilities as the head of offensive operations include:\n",
 
-      "1. Creating a comprehensive training pathway on GitHub.",
-      "2. Developing and implementing best practices",
-      "3. Providing mentorship and guidance.\n",
+      "Creating a comprehensive training pathway on GitHub.",
+      "Developing and implementing best practices",
+      "Providing mentorship and guidance.\n",
 
       "Also, I was given the role of vice president which my responsibilities became more important to accomplish president tasks when he’s not available.\n",
 
