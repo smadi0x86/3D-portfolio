@@ -90,55 +90,49 @@ const technologies = [
 ];
 
 const experiences = [
-  /* {
-    title: "Coming Soon",
-    company_name: "COMPANY NAME",
+  {
+    title: "Vice President & Head of Offensive Operations",
+    company_name: "Cyber Security Club - HTU · Self-employed",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "DATE",
-    points: ["INFO"],
+    date: "May 2023 - Present",
+    points: [
+      "My role in the cyber security club at HTU is critical, I am currently the head of offensive operations at the club in which my main objective is to train the trainers of students and other security enthusiasts.",
+
+      "Some of my responsibilities as the head of offensive operations include:",
+
+      "1. Creating a comprehensive training pathway on GitHub.",
+      "2. Developing and implementing best practices",
+      "3. Providing mentorship and guidance.",
+      "Also, I was given the role of vice president which my responsibilities became more important to accomplish president tasks when he’s not available.",
+
+      "Some of my work as a vice president:",
+
+      "1. Building the base of the cyber security club with a mind map.",
+      "2. Arranging meetings to build communication and relationship between the club members.",
+      "3. Choosing the right students to join our cyber security club and make a difference.",
+      "4. Assisting club members by explaining , guiding and giving a clear accommodation about their responsibilities.",
+      "5. Creating a GitHub & LinkedIn page for the club and building communication with the LinkedIn community so they can get to know our club and share their feedback.",
+    ],
   },
 
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Technical Trainer",
+    company_name: "Enlighten Me Club - HTU · Self-employed",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Mar 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Enlighten Me Club is a student club at Al Hussein Technical University aiming to provide the less fortunate children and teenagers with opportunities to learn programming, english and many more under the emblem of “Knowledge is for everybody”.",
+
+      "My responsibilities include:",
+
+      "1. Communication with children and delivering information efficiently.",
+      "2. Develop their creativity, problem solving and guide them to a bright future.",
+      "3. Creating presentations that can help them better understand why learning is important in a entertaining way.",
+      "4. Teach programming and increase their ability to learn, develop and improve their skills in programming.",
     ],
   },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  */
 ];
 
 const projects = [
