@@ -24,6 +24,7 @@ import {
   shopify,
   carrent,
   jobit,
+  facility,
   tripguide,
   threejs,
 } from "../assets";
