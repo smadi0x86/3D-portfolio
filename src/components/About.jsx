@@ -50,22 +50,20 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a cyber security enthusiast currently engaged in offensive security
-        and I'm interested in penetration testing, malware analysis, malware
-        development and reverse engineering.<br></br>
+        Hello! I'm Saud Smadi, a student at Al Hussein Technical University
+        pursuing a BSc in Cybersecurity.<br></br>
         <br></br>I also made a few projects including this portfolio in the
         field of web development using django, react, nodejs, threejs and hosted
         them using ci/cd azure cloud services.<br></br>
         <br></br>
-        By understanding the concepts of low-level languages such as memory
-        handling, process injection and system calls, I am able to write more
-        efficient and effective code, allowing me to develop advanced attacks
-        that can penetrate even the most sophisticated defenses.<br></br>
-        <br></br> Collaboration and communication with other security firms are
-        crucial in this field. By working closely with other experts, we can
-        develop strategic approaches to offensive cybersecurity that can drive
-        strong defenses and ensure the safety of our clients digital
-        infrastructure.
+        I'm passionate about offensive cybersecurity and believe that by finding
+        vulnerabilities proactively, we can strengthen our defenses. I also
+        enjoy learning about trending IT topics like ci/cd and software
+        development.<br></br>
+        <br></br> Understanding low-level languages helps me write efficient
+        code for advanced attacks. Collaboration with other experts is important
+        to develop strategic approaches. Feel free to contact me at
+        smadixd@gmail.com.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

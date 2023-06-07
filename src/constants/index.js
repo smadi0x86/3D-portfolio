@@ -45,11 +45,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Penetration Testing",
+    title: "Red Team Operations",
     icon: web,
   },
   {
-    title: "Low Level Programming",
+    title: "Debian GNU/Linux",
     icon: mobile,
   },
   {
@@ -97,22 +97,23 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2023 - Present",
     points: [
-      "My role in the cyber security club at HTU is critical, I am currently the head of offensive operations at the club in which my main objective is to train the trainers of students and other security enthusiasts.",
+      "My role in the cyber security club at HTU is critical, I am currently the head of offensive operations at the club in which my main objective is to train the trainers of students and other security enthusiasts.\n",
 
-      "Some of my responsibilities as the head of offensive operations include:",
+      "Some of my responsibilities as the head of offensive operations include:\n",
 
       "1. Creating a comprehensive training pathway on GitHub.",
       "2. Developing and implementing best practices",
-      "3. Providing mentorship and guidance.",
-      "Also, I was given the role of vice president which my responsibilities became more important to accomplish president tasks when he’s not available.",
+      "3. Providing mentorship and guidance.\n",
 
-      "Some of my work as a vice president:",
+      "Also, I was given the role of vice president which my responsibilities became more important to accomplish president tasks when he’s not available.\n",
 
-      "1. Building the base of the cyber security club with a mind map.",
-      "2. Arranging meetings to build communication and relationship between the club members.",
-      "3. Choosing the right students to join our cyber security club and make a difference.",
-      "4. Assisting club members by explaining , guiding and giving a clear accommodation about their responsibilities.",
-      "5. Creating a GitHub & LinkedIn page for the club and building communication with the LinkedIn community so they can get to know our club and share their feedback.",
+      "Some of my work as a vice president:\n",
+
+      "Building the base of the cyber security club with a mind map.",
+      "Arranging meetings to build communication and relationship between the club members.",
+      "Choosing the right students to join our cyber security club and make a difference.",
+      "Assisting club members by explaining , guiding and giving a clear accommodation about their responsibilities.",
+      "Creating a GitHub & LinkedIn page for the club and building communication with the LinkedIn community so they can get to know our club and share their feedback.",
     ],
   },
 
@@ -123,14 +124,14 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Mar 2023 - Present",
     points: [
-      "Enlighten Me Club is a student club at Al Hussein Technical University aiming to provide the less fortunate children and teenagers with opportunities to learn programming, english and many more under the emblem of “Knowledge is for everybody”.",
+      "Enlighten Me Club is a student club at Al Hussein Technical University aiming to provide the less fortunate children and teenagers with opportunities to learn programming, english and many more under the emblem of “Knowledge is for everybody”.\n",
 
-      "My responsibilities include:",
+      "My responsibilities include:\n",
 
-      "1. Communication with children and delivering information efficiently.",
-      "2. Develop their creativity, problem solving and guide them to a bright future.",
-      "3. Creating presentations that can help them better understand why learning is important in a entertaining way.",
-      "4. Teach programming and increase their ability to learn, develop and improve their skills in programming.",
+      "Communication with children and delivering information efficiently.",
+      "Develop their creativity, problem solving and guide them to a bright future.",
+      "Creating presentations that can help them better understand why learning is important in a entertaining way.",
+      "Teach programming and increase their ability to learn, develop and improve their skills in programming.",
     ],
   },
 ];
