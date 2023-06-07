@@ -200,6 +200,27 @@ const projects = [
     image: carrent,
     source_code_link: "https://github.com/smadi0x86/0x01Facility",
   },
+  {
+    name: "MalwareHolmes",
+    description:
+      "This is a collection of methodolgies and techniques I learned and used in my pentesting journey.",
+    tags: [
+      {
+        name: "Methods",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Pentesting",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Cheatsheets",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/smadi0x86/0x01Facility",
+  },
 ];
 
 export { services, technologies, experiences, projects };
