@@ -218,7 +218,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: facility,
     source_code_link: "https://github.com/smadi0x86/0x01Facility",
   },
 ];
