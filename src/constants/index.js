@@ -45,15 +45,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Red Team Operations",
+    title: "Offensive Cyber Operations",
     icon: web,
   },
   {
-    title: "Debian GNU/Linux",
+    title: "C Programming",
     icon: mobile,
   },
   {
-    title: "Malware Development",
+    title: "Debian GNU/Linux",
     icon: backend,
   },
   {
