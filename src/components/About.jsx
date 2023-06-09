@@ -51,18 +51,20 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         Hello! I'm Saud Smadi, a student at Al Hussein Technical University
-        pursuing a BSc in Cybersecurity.<br></br>
-        <br></br>I worked on few projects including this portfolio in the field
-        of web development using django, react, nodejs, threejs and hosted them
-        using ci/cd azure cloud services.<br></br>
-        <br></br>I am also passionate about offensive cybersecurity and believe
-        that by finding vulnerabilities proactively, we can strengthen our
-        defenses. I also enjoy learning about trending IT topics such as devOps
-        and devSecOps.<br></br>
-        <br></br> Understanding low-level languages helps me write efficient
-        code for advanced attacks. Collaboration with other experts is important
-        to develop strategic approaches. Feel free to contact me at
-        smadixd@gmail.com.
+        pursuing a BSc in Cybersecurity. I'm passionate about offensive
+        cybersecurity and believe that by finding vulnerabilities proactively,
+        we can strengthen our defenses.<br></br>
+        <br></br>I worked on projects including this portfolio in the field of
+        web development using django, react, nodejs, threejs and hosted them
+        using ci/cd azure cloud services. Feel free to check more projects at my
+        github profile!<br></br>
+        <br></br>Understanding low-level languages & techniques helps me write
+        efficient code for advanced attacks. Collaboration with other experts is
+        important to develop strategic approaches. I also enjoy learning about
+        trending IT topics such as Software Development and DevSecOps.<br></br>
+        <br></br> I also enjoy learning about trending IT topics such as
+        Software Development and DevSecOps. Check out my GitHub, Linkedin and
+        Blog for more info. Feel free to reach me out at smadixd@gmail.com.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
