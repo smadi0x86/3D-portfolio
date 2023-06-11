@@ -67,10 +67,7 @@ const About = () => {
         <br></br>On this website, you will find a collection of resources, blog
         posts, and projects that reflect my dedication to cybersecurity. I
         invite you to explore and learn more about my work and how I can
-        contribute to your organization's security posture.<br></br>Let's
-        connect and collaborate on building robust cybersecurity strategies.
-        Feel free to reach out to me through the contact information provided on
-        this website.
+        contribute to your organization's security posture.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
