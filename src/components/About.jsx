@@ -50,21 +50,27 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Hello! I'm Saud Smadi, a student at Al Hussein Technical University
-        pursuing a BSc in Cybersecurity. I'm passionate about offensive
-        cybersecurity and believe that by finding vulnerabilities proactively,
-        we can strengthen our defenses.<br></br>
-        <br></br>I worked on projects including this portfolio in the field of
-        web development using django, react, nodejs, threejs and hosted them
-        using ci/cd azure cloud services. Feel free to check more projects at my
-        github profile!<br></br>
-        <br></br>Understanding low-level languages & techniques helps me write
-        efficient code for advanced attacks. Collaboration with other experts is
-        important to develop strategic approaches. I also enjoy learning about
-        trending IT topics such as Software Development and DevSecOps.<br></br>
-        <br></br> I also enjoy learning about trending IT topics such as
-        Software Development and DevSecOps. Check out my GitHub, Linkedin and
-        Blog for more info. Feel free to reach me out at smadixd@gmail.com.
+        I am a passionate cybersecurity professional specializing in offensive
+        security techniques and proactive vulnerability identification. My
+        mission is to strengthen defenses by finding vulnerabilities before they
+        can be exploited.<br></br>
+        <br></br>With a solid foundation in low-level languages and techniques,
+        I possess the expertise to write efficient code for advanced attacks.
+        Collaborating with fellow experts is crucial to my approach as it
+        enables the development of strategic solutions to complex cybersecurity
+        challenges.<br></br>
+        <br></br>Throughout my journey, I have been actively pursuing a BSc in
+        Cybersecurity at Al Hussein Technical University, expanding my knowledge
+        and staying updated on the latest IT trends. My areas of interest
+        include offensive cybersecurity, software development, and the
+        intersection of security with DevSecOps practices.<br></br>
+        <br></br>On this website, you will find a collection of resources, blog
+        posts, and projects that reflect my dedication to cybersecurity. I
+        invite you to explore and learn more about my work and how I can
+        contribute to your organization's security posture.<br></br>Let's
+        connect and collaborate on building robust cybersecurity strategies.
+        Feel free to reach out to me through the contact information provided on
+        this website.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
