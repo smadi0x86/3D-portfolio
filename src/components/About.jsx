@@ -50,7 +50,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a passionate cybersecurity professional specializing in offensive
+        I am a passionate cybersecurity student specializing in offensive
         security techniques and proactive vulnerability identification. My
         mission is to strengthen defenses by finding vulnerabilities before they
         can be exploited.<br></br>
