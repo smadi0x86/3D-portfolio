@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/smadi0x86/static-web"><img src="https://l.top4top.io/p_2594v190t1.gif" alt="nyancat.logo"></a>
   <br>
-  My Personal Website (Azure server)
+  My Personal Website
   <br>
 </h1>
 
