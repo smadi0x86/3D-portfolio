@@ -7,25 +7,18 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
-  redux,
-  tailwind,
-  nodejs,
   mongodb,
   git,
-  figma,
-  docker,
-  meta,
-  starbucks,
+  csc,
   tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
-  threejs,
+  pepo,
+  github,
 } from "../assets";
 
 export const navLinks = [
@@ -62,6 +55,24 @@ const services = [
   },
 ];
 
+const socials = [
+  {
+    name: "github",
+    url: "https://github.com/smadi0x86",
+    icon: github,
+  },
+  {
+    name: "github",
+    url: "https://github.com/smadi0x86",
+    icon: github,
+  },
+  {
+    name: "github",
+    url: "https://github.com/smadi0x86",
+    icon: github,
+  },
+];
+
 const technologies = [
   {
     name: "c",
@@ -87,13 +98,17 @@ const technologies = [
     name: "git",
     icon: git,
   },
+  {
+    name: "pepo",
+    icon: pepo,
+  },
 ];
 
 const experiences = [
   {
     title: "Vice President & Head of Offensive Operations",
     company_name: "Cyber Security Club - HTU · Self-employed",
-    icon: starbucks,
+    icon: csc,
     iconBg: "#000",
     date: "May 2023 - Present",
     points: [
@@ -202,5 +217,5 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, projects };
+export { services, technologies, experiences, projects, socials };
 // export { services, technologies, experiences, projects };
