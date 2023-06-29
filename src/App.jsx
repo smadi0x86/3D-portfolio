@@ -13,6 +13,7 @@ import {
   Hero,
   Navbar,
   StarsCanvas,
+  Tech,
 } from "./components";
 const App = () => {
   return (
@@ -24,6 +25,7 @@ const App = () => {
         </div>
         <About />
         <Experience />
+        <Tech />
         <StarsCanvas />
         <Contact />
       </div>
