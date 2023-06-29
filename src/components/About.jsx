@@ -6,7 +6,7 @@ import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
-import { services } from "../constants";
+import { services, socials } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 
@@ -41,6 +41,19 @@ const ServiceCard = ({ index, title, icon }) => (
 const About = () => {
   return (
     <>
+      <motion.div className="w-full flex justify-center items-center max-w-7xl mx-auto mb-9 mt-9">
+        {socials.map((item, index) => (
+          <motion.a
+            key={index}
+            href={item.url}
+            target="_blank"
+            className="mr-7"
+          >
+            <motion.img className="w-9 h-9" src={item.icon} />
+          </motion.a>
+        ))}
+      </motion.div>
+
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>Overview.</h2>
