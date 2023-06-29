@@ -1,7 +1,6 @@
 /*
  ! This file contains all the constants used in the project, can be used to change the content of the website.
 */
-import { link } from "fs";
 import {
   mobile,
   backend,
@@ -67,17 +66,17 @@ const socials = [
   },
   {
     name: "gitbook",
-    url: "https://github.com/smadi0x86",
+    url: "https://smadi0x86-blog.gitbook.io/smadi0x86/",
     icon: gitbook,
   },
   {
     name: "linkedin",
-    url: "https://github.com/smadi0x86",
+    url: "https://www.linkedin.com/in/saud-smadi/",
     icon: linkedin,
   },
   {
     name: "twitter",
-    url: "https://github.com/smadi0x86",
+    url: "https://twitter.com/@smadi0x86",
     icon: twitter,
   },
 ];
