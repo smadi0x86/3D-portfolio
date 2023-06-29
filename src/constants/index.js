@@ -6,17 +6,17 @@ import {
   backend,
   creator,
   web,
-  javascript,
-  html,
-  css,
-  reactjs,
-  mongodb,
+  java,
+  c,
+  nasm,
+  bash,
+  python,
   git,
   csc,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  emc,
+  MalwareHolmes,
+  javaoop,
+  offsec,
   pepo,
   github,
 } from "../assets";
@@ -76,23 +76,23 @@ const socials = [
 const technologies = [
   {
     name: "c",
-    icon: html,
+    icon: c,
   },
   {
     name: "python",
-    icon: mongodb,
+    icon: python,
   },
   {
     name: "java",
-    icon: javascript,
+    icon: java,
   },
   {
     name: "assembly",
-    icon: css,
+    icon: nasm,
   },
   {
     name: "bash",
-    icon: reactjs,
+    icon: bash,
   },
   {
     name: "git",
@@ -135,7 +135,7 @@ const experiences = [
   {
     title: "Technical Trainer",
     company_name: "Enlighten Me Club - HTU · Self-employed",
-    icon: tesla,
+    icon: emc,
     iconBg: "#FFF",
     date: "Mar 2023 - Present",
     points: [
@@ -170,7 +170,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: offsec,
     source_code_link: "https://github.com/smadi0x86/CSC-RedOps",
   },
   {
@@ -191,7 +191,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: javaoop,
     source_code_link: "https://github.com/smadi0x86/java0x01",
   },
   {
@@ -212,7 +212,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: MalwareHolmes,
     source_code_link: "https://github.com/smadi0x86/MalwareHolmes",
   },
 ];

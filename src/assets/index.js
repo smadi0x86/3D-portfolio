@@ -7,29 +7,21 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
+import nasm from "./tech/nasm.png";
 import git from "./tech/git.png";
-import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+import c from "./tech/c.png";
+import java from "./tech/java.png";
+import python from "./tech/python.png";
+import bash from "./tech/bash.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
 import csc from "./company/csc.png";
-import tesla from "./company/tesla.png";
+import emc from "./company/emc.png";
 
 import pepo from "./company/pepo.png";
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import MalwareHolmes from "./MalwareHolmes.png";
+import javaoop from "./javaoop.png";
+import offsec from "./offsec.png";
 
 export {
   logo,
@@ -40,25 +32,17 @@ export {
   github,
   menu,
   close,
-  css,
-  docker,
-  figma,
+  nasm,
   git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
+  c,
+  java,
+  python,
+  bash,
   threejs,
-  meta,
-  shopify,
   csc,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  emc,
+  MalwareHolmes,
+  javaoop,
+  offsec,
   pepo,
 };
