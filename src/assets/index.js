@@ -6,12 +6,12 @@ import web from "./web.png";
 import github from "./github.png";
 import gitbook from "./gitbook.png";
 import linkedin from "./linkedin.png";
+import telegram from "./telegram.png";
 import twitter from "./twitter.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
 import nasm from "./tech/nasm.png";
-import git from "./tech/git.png";
 import c from "./tech/c.png";
 import java from "./tech/java.png";
 import python from "./tech/python.png";
@@ -34,11 +34,11 @@ export {
   github,
   gitbook,
   linkedin,
+  telegram,
   twitter,
   menu,
   close,
   nasm,
-  git,
   c,
   java,
   python,

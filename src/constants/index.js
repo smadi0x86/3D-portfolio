@@ -11,7 +11,6 @@ import {
   nasm,
   bash,
   python,
-  git,
   csc,
   emc,
   MalwareHolmes,
@@ -22,6 +21,7 @@ import {
   linkedin,
   gitbook,
   twitter,
+  telegram,
 } from "../assets";
 
 export const navLinks = [
@@ -49,7 +49,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Debian GNU/Linux",
+    title: "GNU/Linux",
     icon: backend,
   },
   {
@@ -73,6 +73,11 @@ const socials = [
     name: "linkedin",
     url: "https://www.linkedin.com/in/saud-smadi/",
     icon: linkedin,
+  },
+  {
+    name: "telegram",
+    url: "https://t.me/rootsmadi",
+    icon: telegram,
   },
   {
     name: "twitter",
@@ -101,10 +106,6 @@ const technologies = [
   {
     name: "bash",
     icon: bash,
-  },
-  {
-    name: "git",
-    icon: git,
   },
   {
     name: "pepo",
@@ -220,4 +221,3 @@ const projects = [
 ];
 
 export { services, technologies, experiences, projects, socials };
-// export { services, technologies, experiences, projects };
