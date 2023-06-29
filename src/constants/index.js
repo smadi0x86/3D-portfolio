@@ -1,6 +1,7 @@
 /*
  ! This file contains all the constants used in the project, can be used to change the content of the website.
 */
+import { link } from "fs";
 import {
   mobile,
   backend,
@@ -16,9 +17,12 @@ import {
   emc,
   MalwareHolmes,
   javaoop,
-  offsec,
+  redops,
   pepo,
   github,
+  linkedin,
+  gitbook,
+  twitter,
 } from "../assets";
 
 export const navLinks = [
@@ -62,14 +66,19 @@ const socials = [
     icon: github,
   },
   {
-    name: "github",
+    name: "gitbook",
     url: "https://github.com/smadi0x86",
-    icon: github,
+    icon: gitbook,
   },
   {
-    name: "github",
+    name: "linkedin",
     url: "https://github.com/smadi0x86",
-    icon: github,
+    icon: linkedin,
+  },
+  {
+    name: "twitter",
+    url: "https://github.com/smadi0x86",
+    icon: twitter,
   },
 ];
 
@@ -114,15 +123,11 @@ const experiences = [
     points: [
       "My role in the cyber security club at HTU is critical, I am currently the head of offensive operations at the club in which my main objective is to train the trainers of students and other security enthusiasts.\n",
 
-      "Some of my responsibilities as the head of offensive operations include:\n",
-
       "Creating a comprehensive training pathway on GitHub.",
       "Developing and implementing best practices",
       "Providing mentorship and guidance.\n",
 
       "Also, I was given the role of vice president which my responsibilities became more important to accomplish president tasks when he’s not available.\n",
-
-      "Some of my work as a vice president:\n",
 
       "Building the base of the cyber security club with a mind map.",
       "Arranging meetings to build communication and relationship between the club members.",
@@ -140,8 +145,6 @@ const experiences = [
     date: "Mar 2023 - Present",
     points: [
       "Enlighten Me Club is a student club at Al Hussein Technical University aiming to provide the less fortunate children and teenagers with opportunities to learn programming, english and many more under the emblem of “Knowledge is for everybody”.\n",
-
-      "My responsibilities include:\n",
 
       "Communication with children and delivering information efficiently.",
       "Develop their creativity, problem solving and guide them to a bright future.",
@@ -170,7 +173,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: offsec,
+    image: redops,
     source_code_link: "https://github.com/smadi0x86/CSC-RedOps",
   },
   {
