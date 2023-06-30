@@ -4,7 +4,7 @@
 */
 import { motion } from "framer-motion";
 import { styles } from "../styles/";
-import { ComputersCanvas } from "./canvas";
+import MyCanvas from "./canvas/MyCanvas";
 
 const Hero = () => {
   return (
@@ -15,7 +15,7 @@ const Hero = () => {
         <div className="flex flex-col justify-center items-center mt-5"></div>
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className="text-purple-500"> Smadi</span>
+            Hi, I'm <span className="text-red-900"> Smadi</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             A Cyber Security Student, <br className="sm:block hidden" />{" "}
@@ -23,7 +23,7 @@ const Hero = () => {
           </p>
         </div>
       </div>
-      <ComputersCanvas />
+      <MyCanvas />
       {/* This is the gif wheel to scroll*/}
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
         <a href="#about">
