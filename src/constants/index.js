@@ -16,7 +16,6 @@ import {
   MalwareHolmes,
   javaoop,
   redops,
-  pepo,
   github,
   linkedin,
   gitbook,
@@ -106,10 +105,6 @@ const technologies = [
   {
     name: "bash",
     icon: bash,
-  },
-  {
-    name: "pepo",
-    icon: pepo,
   },
 ];
 

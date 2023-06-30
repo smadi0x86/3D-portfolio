@@ -41,15 +41,15 @@ const ServiceCard = ({ index, title, icon }) => (
 const About = () => {
   return (
     <>
-      <motion.div className="w-full flex justify-center items-center max-w-7xl mx-auto mb-9 mt-9">
+      <motion.div className="w-full flex justify-left items-center max-w-7xl mx-auto mb-9 mt-9">
         {socials.map((item, index) => (
           <motion.a
             key={index}
             href={item.url}
             target="_blank"
-            className="mr-7"
+            className="mr-5"
           >
-            <motion.img className="w-9 h-9" src={item.icon} />
+            <motion.img className="w-8 h-8" src={item.icon} />
           </motion.a>
         ))}
       </motion.div>
