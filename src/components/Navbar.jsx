@@ -1,9 +1,3 @@
-/*
- ! This is the navbar component, it contains the logo and the navigation links.
- ! The navigation links are stored in the constants folder.
- ! All navbar code is written in this file.
- ! Everything is ready till now.
- */
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { styles } from "../styles/";

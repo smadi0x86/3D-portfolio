@@ -1,6 +1,3 @@
-/*
- ! This is a modified version of the original Stars.jsx file from the react-three-fiber library.
-*/
 import { useState, useRef, Suspense } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
 import { Points, PointMaterial, Preload } from "@react-three/drei";

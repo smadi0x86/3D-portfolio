@@ -1,6 +1,3 @@
-/*
- ! This component is used to display the work experience of the user.
-*/
 import React from "react";
 import {
   VerticalTimeline,

@@ -1,7 +1,3 @@
-/*
- ! This is the Hero component, it contains the main text and the canvas.
- ! It contains the computer figure, purple circle, purple arrow and the background.
-*/
 import { motion } from "framer-motion";
 import { styles } from "../styles/";
 import { ComputersCanvas } from "./canvas";

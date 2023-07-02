@@ -1,6 +1,3 @@
-/*
-  ! This component is used for tech section, it renders the technologies folder.
-*/
 import React from "react";
 
 import { BallCanvas } from "./canvas";

@@ -1,6 +1,3 @@
-/*
-  ! This file is used to export all the components in the components folder, so that they can be imported in the App.js file.
-*/
 import {
   EarthCanvas,
   BallCanvas,

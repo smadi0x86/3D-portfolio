@@ -1,6 +1,3 @@
-/*
- ! This is a component that renders a 3D ball with a decal texture on it.
-*/
 import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import {

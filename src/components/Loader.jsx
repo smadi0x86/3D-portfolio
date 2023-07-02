@@ -1,6 +1,3 @@
-/*
-  ! This component is used to display a loading animation while the 3D model is loading.
-*/
 import { Html, useProgress } from "@react-three/drei";
 
 const CanvasLoader = () => {

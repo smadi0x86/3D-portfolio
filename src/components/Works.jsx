@@ -1,6 +1,3 @@
-/*
-  ! This component is used to display the projects I have worked on.
-*/
 import React from "react";
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
