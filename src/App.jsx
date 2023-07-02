@@ -1,9 +1,3 @@
-/*
- ! This is the main component of the app.
- ! It contains all the other components.
- ! It's used to render the app.
-*/
-
 import { BrowserRouter } from "react-router-dom";
 
 import {

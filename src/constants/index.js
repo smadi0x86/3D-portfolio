@@ -1,6 +1,3 @@
-/*
- ! This file contains all the constants used in the project, can be used to change the content of the website.
-*/
 import {
   mobile,
   backend,
