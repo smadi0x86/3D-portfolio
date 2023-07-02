@@ -4,7 +4,7 @@
 */
 import { motion } from "framer-motion";
 import { styles } from "../styles/";
-import MyCanvas from "./canvas/MyCanvas";
+import { ComputersCanvas } from "./canvas";
 
 const Hero = () => {
   return (
@@ -15,7 +15,7 @@ const Hero = () => {
         <div className="flex flex-col justify-center items-center mt-5"></div>
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className="text-red-900"> Smadi</span>
+            Hi, I'm <span className="text-red-800"> Smadi</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             A Cyber Security Student, <br className="sm:block hidden" />{" "}
@@ -23,11 +23,11 @@ const Hero = () => {
           </p>
         </div>
       </div>
-      <MyCanvas />
+      <ComputersCanvas />
       {/* This is the gif wheel to scroll*/}
-      <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
+      <div className="absolute xs:bottom-3 bottom-32 w-full flex justify-center items-center">
         <a href="#about">
-          <div className="w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2">
+          <div className="w-[35px] h-[64px] rounded-3xl border-4 border-white flex justify-center items-start p-2">
             <motion.div
               animate={{
                 y: [0, 24, 0],
@@ -37,7 +37,7 @@ const Hero = () => {
                 repeat: Infinity,
                 repeatType: "loop",
               }}
-              className="w-3 h-3 rounded-full bg-secondary mb-1"
+              className="w-3 h-3 rounded-full bg-red-800 mb-1"
             />
           </div>
         </a>

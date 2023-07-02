@@ -3,7 +3,7 @@
 */
 import EarthCanvas from "./Earth";
 import BallCanvas from "./Ball";
-import MyCanvas from "./MyCanvas";
+import ComputersCanvas from "./Computers";
 import StarsCanvas from "./Stars";
 
-export { EarthCanvas, BallCanvas, MyCanvas, StarsCanvas };
+export { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas };

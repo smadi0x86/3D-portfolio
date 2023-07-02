@@ -30,30 +30,19 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Work",
+    title: "Experience",
+  },
+  {
+    id: "tech",
+    title: "Technologies",
+  },
+  {
+    id: "projects",
+    title: "Projects",
   },
   {
     id: "contact",
     title: "Contact",
-  },
-];
-
-const services = [
-  {
-    title: "Red Team Operations",
-    icon: web,
-  },
-  {
-    title: "Malware Development",
-    icon: mobile,
-  },
-  {
-    title: "GNU/Linux",
-    icon: backend,
-  },
-  {
-    title: "Research",
-    icon: creator,
   },
 ];
 
@@ -85,6 +74,25 @@ const socials = [
   },
 ];
 
+const services = [
+  {
+    title: "Red Team Operations",
+    icon: web,
+  },
+  {
+    title: "Malware Development",
+    icon: mobile,
+  },
+  {
+    title: "GNU/Linux",
+    icon: backend,
+  },
+  {
+    title: "Research",
+    icon: creator,
+  },
+];
+
 const technologies = [
   {
     name: "c",
@@ -110,8 +118,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Vice President & Head of Offensive Operations",
-    company_name: "Cyber Security Club - HTU · Self-employed",
+    title: "Vice President & Head Of Offensive Operations",
+    company_name: "Cyber Security Club - HTU · Membership",
     icon: csc,
     iconBg: "#000",
     date: "May 2023 - Present",
@@ -122,7 +130,7 @@ const experiences = [
       "Developing and implementing best practices",
       "Providing mentorship and guidance.\n",
 
-      "Also, I was given the role of vice president which my responsibilities became more important to accomplish president tasks when he’s not available.\n",
+      "I was given the role of vice president which my responsibilities became more important to accomplish president tasks when he’s not available.\n",
 
       "Building the base of the cyber security club with a mind map.",
       "Arranging meetings to build communication and relationship between the club members.",
@@ -134,7 +142,7 @@ const experiences = [
 
   {
     title: "Technical Trainer",
-    company_name: "Enlighten Me Club - HTU · Self-employed",
+    company_name: "Enlighten Me Club - HTU · Membership",
     icon: emc,
     iconBg: "#FFF",
     date: "Mar 2023 - Present",
@@ -151,7 +159,7 @@ const experiences = [
 
 const projects = [
   {
-    name: "Offensive operations pathway",
+    name: "Offensive Operations Pathway",
     description:
       "As a head of offensive operations in my university's cyber security club, I developed this pathway to help new members learn the basics of offensive operations.",
     tags: [
