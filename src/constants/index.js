@@ -77,11 +77,11 @@ const services = [
     icon: web,
   },
   {
-    title: "Malware Development",
+    title: "Software Development",
     icon: mobile,
   },
   {
-    title: "GNU/Linux",
+    title: "DevSecOps",
     icon: backend,
   },
   {

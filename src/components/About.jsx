@@ -64,20 +64,17 @@ const About = () => {
         security techniques and proactive vulnerability identification. My
         mission is to strengthen defenses by finding vulnerabilities before they
         can be exploited.<br></br>
-        <br></br>With a solid foundation in low-level languages and techniques,
-        I possess the expertise to write efficient code for advanced attacks.
-        Collaborating with fellow experts is crucial to my approach as it
-        enables the development of strategic solutions to complex cybersecurity
-        challenges.<br></br>
+        <br></br>
+        Collaborating with other experts is crucial as it enables the
+        development of strategic solutions to complex cybersecurity challenges.
+        <br></br>
         <br></br>Throughout my journey, I have been actively pursuing a BSc in
-        Cybersecurity at Al Hussein Technical University, expanding my knowledge
-        and staying updated on the latest IT trends. My areas of interest
-        include offensive cybersecurity, software development, and the
-        intersection of security with DevSecOps practices.<br></br>
-        <br></br>On this website, you will find a collection of resources, blog
-        posts, and projects that reflect my dedication to cybersecurity. I
-        invite you to explore and learn more about my work and how I can
-        contribute to your organization's security posture.
+        Cybersecurity, expanding my knowledge and staying updated on the latest
+        IT trends. My areas of interest include offensive cybersecurity,
+        software development, and the intersection of security with DevOps
+        practices.<br></br>
+        <br></br>I invite you to explore and learn more about my work and how I
+        can contribute to your organization's security posture.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
